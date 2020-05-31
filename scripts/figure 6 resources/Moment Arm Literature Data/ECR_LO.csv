@@ -1,0 +1,93 @@
+id,nPosture,idDOF,sDOF,idDOF_MJC,sDescShort,nDOF,nMA,nSD,cModelPosition,sReference
+1,1,8,ra_wr_s_p,5,Wrist Pro/Sup,74.85,-3.94,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+2,1,8,ra_wr_s_p,5,Wrist Pro/Sup,66.42,-2.94,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+3,1,8,ra_wr_s_p,5,Wrist Pro/Sup,58.55,-2.09,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+4,1,8,ra_wr_s_p,5,Wrist Pro/Sup,49.88,-1.16,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+5,1,8,ra_wr_s_p,5,Wrist Pro/Sup,41.41,-0.47,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+6,1,8,ra_wr_s_p,5,Wrist Pro/Sup,33.36,-0.04,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+7,1,8,ra_wr_s_p,5,Wrist Pro/Sup,25.31,0.11,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+8,1,8,ra_wr_s_p,5,Wrist Pro/Sup,17.26,0.18,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+9,1,8,ra_wr_s_p,5,Wrist Pro/Sup,9.21,0.23,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+10,1,8,ra_wr_s_p,5,Wrist Pro/Sup,1.28,0.19,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+11,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-7.94,0.31,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+12,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-15.99,0.6,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+13,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-23.97,1.04,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+14,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-32.42,1.68,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+15,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-40.57,2.44,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+16,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-48.92,3.2,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+17,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-56.71,3.8,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+18,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-64.81,4.08,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+19,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-73.11,3.57,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+20,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-80.06,2.3,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+21,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-85.91,0.29,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+22,1,8,ra_wr_s_p,5,Wrist Pro/Sup,-89.67,-1.54,0,0 0 0 90 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+23,2,8,ra_wr_s_p,5,Wrist Pro/Sup,75.88,-0.95,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+24,2,8,ra_wr_s_p,5,Wrist Pro/Sup,67.83,-0.55,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+25,2,8,ra_wr_s_p,5,Wrist Pro/Sup,59.78,-0.37,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+26,2,8,ra_wr_s_p,5,Wrist Pro/Sup,51.73,-0.18,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+27,2,8,ra_wr_s_p,5,Wrist Pro/Sup,43.68,-0.07,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+28,2,8,ra_wr_s_p,5,Wrist Pro/Sup,35.63,-0.04,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+29,2,8,ra_wr_s_p,5,Wrist Pro/Sup,27.58,0.04,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+30,2,8,ra_wr_s_p,5,Wrist Pro/Sup,19.53,0.1,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+31,2,8,ra_wr_s_p,5,Wrist Pro/Sup,11.48,0.14,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+32,2,8,ra_wr_s_p,5,Wrist Pro/Sup,3.43,0.2,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+33,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-4.62,0.22,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+34,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-12.67,0.31,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+35,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-19.57,0.34,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+36,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-28.15,0.42,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+37,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-37.44,0.53,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+38,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-46.85,0.73,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+39,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-54.83,0.92,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+40,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-61.27,1.13,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+41,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-70.53,1.57,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+42,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-79.69,2.21,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+43,2,8,ra_wr_s_p,5,Wrist Pro/Sup,-87.63,2.94,0,0 0 0 45 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+44,3,8,ra_wr_s_p,5,Wrist Pro/Sup,76.4,0.02,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+45,3,8,ra_wr_s_p,5,Wrist Pro/Sup,68.35,-0.06,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+46,3,8,ra_wr_s_p,5,Wrist Pro/Sup,60.3,-0.05,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+47,3,8,ra_wr_s_p,5,Wrist Pro/Sup,52.25,-0.08,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+48,3,8,ra_wr_s_p,5,Wrist Pro/Sup,44.2,-0.03,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+49,3,8,ra_wr_s_p,5,Wrist Pro/Sup,36.16,-0.06,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+50,3,8,ra_wr_s_p,5,Wrist Pro/Sup,28.11,0.05,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+51,3,8,ra_wr_s_p,5,Wrist Pro/Sup,20.06,-0.07,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+52,3,8,ra_wr_s_p,5,Wrist Pro/Sup,12.01,-0.3,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+53,3,8,ra_wr_s_p,5,Wrist Pro/Sup,3.96,-0.54,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+54,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-4.09,-0.91,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+55,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-12.14,-1.32,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+56,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-20.19,-1.74,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+57,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-28.24,-2.13,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+58,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-36.29,-2.45,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+59,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-44.34,-2.69,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+60,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-52.39,-2.69,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+61,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-60.44,-2.44,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+62,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-68.49,-1.76,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+63,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-76.54,-0.55,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+64,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-84.07,1.08,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+65,3,8,ra_wr_s_p,5,Wrist Pro/Sup,-88.09,2.18,0,0 0 0 0 NaN 0 0 25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Bremer A K et al. 2006. Moment arms of forearm rotators. Clinical Biomechanics.
+66,1,9,ra_wr_e_f,7,Wrist F/E,40,-6.32,0,0 0 0 90 -90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+67,1,9,ra_wr_e_f,7,Wrist F/E,30,-7.19,0,0 0 0 90 -90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+68,1,9,ra_wr_e_f,7,Wrist F/E,20,-8.06,0,0 0 0 90 -90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+69,1,9,ra_wr_e_f,7,Wrist F/E,10,-8.93,0,0 0 0 90 -90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+70,1,9,ra_wr_e_f,7,Wrist F/E,0,-9.8,0,0 0 0 90 -90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+71,1,9,ra_wr_e_f,7,Wrist F/E,-10,-10.67,0,0 0 0 90 -90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+72,1,9,ra_wr_e_f,7,Wrist F/E,-20,-11.54,0,0 0 0 90 -90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+73,1,9,ra_wr_e_f,7,Wrist F/E,-30,-12.41,0,0 0 0 90 -90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+74,1,9,ra_wr_e_f,7,Wrist F/E,-40,-13.28,0,0 0 0 90 -90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+75,2,9,ra_wr_e_f,7,Wrist F/E,40,-3.2,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+76,2,9,ra_wr_e_f,7,Wrist F/E,30,-4.9,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+77,2,9,ra_wr_e_f,7,Wrist F/E,20,-6.6,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+78,2,9,ra_wr_e_f,7,Wrist F/E,10,-8.3,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+79,2,9,ra_wr_e_f,7,Wrist F/E,0,-10,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+80,2,9,ra_wr_e_f,7,Wrist F/E,-10,-11.7,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+81,2,9,ra_wr_e_f,7,Wrist F/E,-20,-13.4,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+82,2,9,ra_wr_e_f,7,Wrist F/E,-30,-15.1,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+83,2,9,ra_wr_e_f,7,Wrist F/E,-40,-16.8,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+84,3,9,ra_wr_e_f,7,Wrist F/E,40,-6.2,0,0 0 0 90 90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+85,3,9,ra_wr_e_f,7,Wrist F/E,30,-7.9,0,0 0 0 90 90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+86,3,9,ra_wr_e_f,7,Wrist F/E,20,-9.6,0,0 0 0 90 90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+87,3,9,ra_wr_e_f,7,Wrist F/E,10,-11.3,0,0 0 0 90 90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+88,3,9,ra_wr_e_f,7,Wrist F/E,0,-13,0,0 0 0 90 90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+89,3,9,ra_wr_e_f,7,Wrist F/E,-10,-14.7,0,0 0 0 90 90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+90,3,9,ra_wr_e_f,7,Wrist F/E,-20,-16.4,0,0 0 0 90 90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+91,3,9,ra_wr_e_f,7,Wrist F/E,-30,-18.1,0,0 0 0 90 90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0
+92,3,9,ra_wr_e_f,7,Wrist F/E,-40,-19.8,0,0 0 0 90 90 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Loren et al. 1996. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics https://doi.org/10.1016/0021-9290(95)00055-0

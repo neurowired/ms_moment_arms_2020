@@ -1,0 +1,36 @@
+clc
+clear
+
+% load data from moment arm validation
+load('MS_Moment_Arm_validation.mat')
+
+% % load metaMuscle
+% metaMuscle = load_csv(...
+%     'sFile', 'mbm_metaMuscle.csv',...
+%     'sPath', cd,...
+%     'bVerbose', false);
+
+% get muscle names from the data
+cMuscles = fields(Data);
+iC = 1;
+for iM = 1:numel(cMuscles)
+    for iDof = 1:numel(Data.(cMuscles{iM}).sDOF)
+        if Data.(cMuscles{iM}).bGood(iDof)
+            
+            if isnan(Data.(cMuscles{iM}).nRMS{iDof})
+                numPostures = numel(Data.(cMuscles{iM}).nRMS_norm{iDof}); 
+                nRMSE(iC:(iC+numPostures-1)) = Data.(cMuscles{iM}).nRMS_norm{iDof};
+                nR(iC:(iC+numPostures-1))   = Data.(cMuscles{iM}).nR{iDof};
+                iC = iC + 1 + numPostures - 1;
+            end
+        end
+    end
+end
+
+disp('Removed muscle DOFs that passed RMSE check by having an RMSE less than 0.1')
+fprintf('showing RMSE norm only\n\nRMSE')
+
+
+
+
+

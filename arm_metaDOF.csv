@@ -1,0 +1,37 @@
+idDOF,sDOF,idDOF_MJC,nRangeMin,nRangeMax,bLocked_MJC,nIC,sDescription,sDescShort,sDOFOld
+1,thorax_rot1,,-1.5708,1.5708,1,,abduction/adduction motion,,thorax_rot1
+2,thorax_rot2,,-1.5708,1.5708,1,,rotation motion,,thorax_rot2
+3,thorax_rot3,,-1.5708,1.5708,1,,flexion/extension motion,,thorax_rot3
+4,elv_angle,,0,2.2689,1,,angle which shoulder will elevate,,shoulder_flex
+5,shoulder_elv,,0,3.1416,1,,shoulder elevation,,shoulder_abd
+6,shoulder_rot,,-1.5708,0.3491,1,,rotation motion,,shoulder_rot
+7,elbow_flexion,,0,2.2689,1,,flexion/extension motion,,elbow_flexion
+8,ra_wr_s_p,5,-1.5708,1.5708,0,0,wrist rotation motion,Wrist Pro/Sup,pro_sup
+9,ra_wr_e_f,7,-1.2217,1.2217,0,0,wrist flexion/extension motion,Wrist F/E,RA2R_RA3M_X
+10,ra_cmc1_ad_ab,9,0,0.8727,0,0,thumb proximal  abduction/adduction motion,D1 CMC Ab/Ad,RA3M_RA4P1_X
+11,ra_cmc1_f_e,8,0,0.8727,0,0,thumb proximal  flexion/extension  motion,D1 CMC F/E,RA3M_RA4P1_Z
+12,ra_mcp1_f_e,10,-0.7854,0,0,0,thumb central flexion/extension motion,D1 MCP,RA4P1_RA5C1_Z
+13,ra_ip1_f_e,11,-1.5708,0,0,0,thumb distal flexion/extension motion,D1 IP,RA5C1_RA6D1_Z
+14,ra_mcp2_e_f,12,0,1.5708,0,0,index proximal flexion/extension motion,D2 MCP,RA3M_RA4P2_X
+15,ra_pip2_e_f,13,0,2.0944,0,0,index central flexion/extension motion,D2 PIP,RA4P2_RA5C2_X
+16,ra_dip2_e_f,14,0,1.5708,0,0,index distal flexion/extension motion,D2 DIP,RA5C2_RA6D2_X
+17,ra_mcp3_e_f,15,0,1.5708,0,0,middle proximal flexion/extension motion,D3 MCP,RA3M_RA4P3_X
+18,ra_pip3_e_f,16,0,2.0944,0,0,middle central flexion/extension motion,D3 PIP,RA4P3_RA5C3_X
+19,ra_dip3_e_f,17,0,1.5708,0,0,middle distal flexion/extension motion,D3 DIP,RA5C3_RA6D3_X
+20,ra_mcp4_e_f,18,0,1.5708,0,0,ring proximal flexion/extension motion,D4 MCP,RA3M_RA4P4_X
+21,ra_pip4_e_f,19,0,2.0944,0,0,ring central flexion/extension motion,D4 PIP,RA4P4_RA5C4_X
+22,ra_dip4_e_f,20,0,1.5708,0,0,ring distal flexion/extension motion,D4 DIP,RA5C4_RA6D4_X
+23,ra_mcp5_e_f,21,0,1.5708,0,0,pinky proximal flexion/extension motion,D5 MCP,RA3M_RA4P5_X
+24,ra_pip5_e_f,22,0,2.0944,0,0,pinky central flexion/extension motion,D5 PIP,RA4P5_RA5C5_X
+25,ra_dip5_e_f,23,0,1.5708,0,0,pinky distal flexion/extension motion,D5 DIP,RA5C5_RA6D5_X
+26,ra_sh_ab_ad,2,-3.1416,0,0,0,shoulder abduction/adduction motion,Sh Ab/Ad,T_RA1H_X
+27,ra_sh_e_f,1,0,3.1416,0,0,shoulder flexion/extension motion,Sh F/E,T_RA1H_Z
+28,ra_sh_rot,3,-1.5708,0.3491,0,0,shoulder rotation motion,Sh Rot,T_RA1H_Y
+29,ra_el_e_f,4,0,2.2689,0,0,elbow flexion/extension motion,Elbow F/E,RA1H_RA2U_Z
+30,ra_wr_ad_ab,6,-0.1745,0.5236,1,0,wrist abduction/adduction motion,Wrist Ab/Ad,RA2R_RA3M_Z
+31,ra_mcp2_ab_ad,,-0.2618,0.2618,1,,index proximal abduction/adduction motion,,RA3M_RA4P2_Z
+32,ra_mcp3_ab_ad,,-0.2618,0.2618,1,,middle proximal abduction/adduction motion,,RA3M_RA4P3_Z
+33,ra_mcp4_ab_ad,,-0.2618,0.2618,1,,ring proximal abduction/adduction motion,,RA3M_RA4P4_Z
+34,ra_mcp5_ab_ad,,-0.2618,0.2618,1,,pinky proximal abduction/adduction motion,,RA3M_RA4P5_Z
+35,ThumbYaw,,0,,1,,DEKA hand thumb angle,,ThumbYaw
+36,ThumbPitch,,0,,1,,DEKA hand thumb angle,,ThumbPitch

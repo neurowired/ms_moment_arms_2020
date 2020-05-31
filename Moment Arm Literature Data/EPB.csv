@@ -1,0 +1,34 @@
+id,nPosture,idDOF,sDOF,idDOF_MJC,sDescShort,nDOF,nMA,nSD,cModelPosition,sReference
+1,1,9,ra_wr_e_f,7,Wrist F/E,-60,4.5,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Gonzalez et al. 1997. How Muscle Architecture and Wrist Flexion-Extension Moment Arms Affect Moments. Journal of Biomechanics.
+2,1,9,ra_wr_e_f,7,Wrist F/E,-40,3.5,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Gonzalez et al. 1997. How Muscle Architecture and Wrist Flexion-Extension Moment Arms Affect Moments. Journal of Biomechanics.
+3,1,9,ra_wr_e_f,7,Wrist F/E,-20,3,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Gonzalez et al. 1997. How Muscle Architecture and Wrist Flexion-Extension Moment Arms Affect Moments. Journal of Biomechanics.
+4,1,9,ra_wr_e_f,7,Wrist F/E,0,3,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Gonzalez et al. 1997. How Muscle Architecture and Wrist Flexion-Extension Moment Arms Affect Moments. Journal of Biomechanics.
+5,1,9,ra_wr_e_f,7,Wrist F/E,20,3.1,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Gonzalez et al. 1997. How Muscle Architecture and Wrist Flexion-Extension Moment Arms Affect Moments. Journal of Biomechanics.
+6,1,9,ra_wr_e_f,7,Wrist F/E,40,2.9,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Gonzalez et al. 1997. How Muscle Architecture and Wrist Flexion-Extension Moment Arms Affect Moments. Journal of Biomechanics.
+7,1,9,ra_wr_e_f,7,Wrist F/E,60,2.8,0,0 0 0 90 0 0 NaN  25 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Gonzalez et al. 1997. How Muscle Architecture and Wrist Flexion-Extension Moment Arms Affect Moments. Journal of Biomechanics.
+8,1,11,ra_cmc1_f_e,8,D1 CMC F/E,0,17.8,4.8,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+9,1,11,ra_cmc1_f_e,8,D1 CMC F/E,5,15.8,2.8,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+10,1,11,ra_cmc1_f_e,8,D1 CMC F/E,10,14.4,2.2,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+11,1,11,ra_cmc1_f_e,8,D1 CMC F/E,15,13.5,2.4,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+12,1,11,ra_cmc1_f_e,8,D1 CMC F/E,20,13,2.5,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+13,1,11,ra_cmc1_f_e,8,D1 CMC F/E,25,12.9,2.5,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+14,1,11,ra_cmc1_f_e,8,D1 CMC F/E,30,13.2,2.3,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+15,1,11,ra_cmc1_f_e,8,D1 CMC F/E,35,13.7,2.4,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+16,1,11,ra_cmc1_f_e,8,D1 CMC F/E,40,14.5,2.6,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+17,1,11,ra_cmc1_f_e,8,D1 CMC F/E,45,15.1,3,0 0 0 90 0 0 0 NaN 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+18,1,10,ra_cmc1_ad_ab,9,D1 CMC Ab/Ad,40,4.5,2.3,0 0 0 90 0 0 0 25 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+19,1,10,ra_cmc1_ad_ab,9,D1 CMC Ab/Ad,35,4.3,3.5,0 0 0 90 0 0 0 25 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+20,1,10,ra_cmc1_ad_ab,9,D1 CMC Ab/Ad,30,3.8,5.2,0 0 0 90 0 0 0 25 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+21,1,10,ra_cmc1_ad_ab,9,D1 CMC Ab/Ad,25,3.4,6.6,0 0 0 90 0 0 0 25 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+22,1,10,ra_cmc1_ad_ab,9,D1 CMC Ab/Ad,20,3.2,6.7,0 0 0 90 0 0 0 25 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+23,1,10,ra_cmc1_ad_ab,9,D1 CMC Ab/Ad,15,3.1,5.6,0 0 0 90 0 0 0 25 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+24,1,10,ra_cmc1_ad_ab,9,D1 CMC Ab/Ad,10,3.2,4.1,0 0 0 90 0 0 0 25 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+25,1,10,ra_cmc1_ad_ab,9,D1 CMC Ab/Ad,5,3.2,3.7,0 0 0 90 0 0 0 25 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+26,1,10,ra_cmc1_ad_ab,9,D1 CMC Ab/Ad,0,3.5,3.6,0 0 0 90 0 0 0 25 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+27,1,12,ra_mcp1_f_e,10,D1 MCP,0,8.6,1.6,0 0 0 90 0 0 0 25 20 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+28,1,12,ra_mcp1_f_e,10,D1 MCP,-10,8.6,1,0 0 0 90 0 0 0 25 20 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+29,1,12,ra_mcp1_f_e,10,D1 MCP,-20,8.6,0.7,0 0 0 90 0 0 0 25 20 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+30,1,12,ra_mcp1_f_e,10,D1 MCP,-30,8.8,0.8,0 0 0 90 0 0 0 25 20 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+31,1,12,ra_mcp1_f_e,10,D1 MCP,-40,9.6,1.2,0 0 0 90 0 0 0 25 20 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+32,1,12,ra_mcp1_f_e,10,D1 MCP,-50,9.6,0.5,0 0 0 90 0 0 0 25 20 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
+33,1,12,ra_mcp1_f_e,10,D1 MCP,-60,9.9,0.9,0 0 0 90 0 0 0 25 20 NaN 0 0 0 0 0 0 0 0 0 0 0 0 0,Paul Smutz et al. 1998. Mechanical advantage of the thumb muscles. Journal of Biomechanics.
